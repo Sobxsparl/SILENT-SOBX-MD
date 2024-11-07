@@ -45,7 +45,7 @@ let madeMenu = `╭━━━━∙⋆⋅⋆∙━ ─┉─ • ─┉─⊷
 *❖│▸* *ʀᴜɴᴛɪᴍᴇ* : ${runtime(process.uptime())}
 *❖│▸* *ʀᴀᴍ ᴜsᴇ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
 *❖│▸* *ɴᴀᴍᴇ ʙᴏᴛ* : *❖sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❖*
-*❖│▸* *ᴄʀᴇᴀᴛᴏʀ* : *➺ѕเℓεɳƭ_ℓσѵε૨࿐*
+*❖│▸* *ᴄʀᴇᴀᴛᴏʀ* : *➺SOBIAɳƭBUTT_࿐*
 *❖│▸* *ᴠᴇʀsɪᴏɴs* : *ᴠ.2.0.0*
 *❖│▸* *ᴍᴇɴᴜ ᴄᴍᴅ* : *ᴍᴇɴᴜ ʟɪsᴛ*
 *┬│▸*
@@ -183,11 +183,11 @@ await conn.sendMessage(from, { text: madeMenu ,
     isForwarded: false,
     forwardedNewsletterMessageInfo: {
       newsletterJid: '120363232588171807@newsletter',
-      newsletterName: "SILENTLOVER432",
+      newsletterName: "SOBIABUTT",
       serverMessageId: 999
     },
 externalAdReply: { 
-title: '◀︎SILENT-SOBX-MD MENU▶︎',
+title: '◀︎SOBIA-MD MENU▶︎',
 body: `${pushname}`,
 mediaType: 1,
 sourceUrl: "https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s" ,
