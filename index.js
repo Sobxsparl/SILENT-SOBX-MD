@@ -48,7 +48,7 @@ const Crypto = require('crypto')
 const path = require('path')
 const gifted = require('gifted-dls')
 
-const ownerNumber = ['923096287432']
+const ownerNumber = ['923251869133']
 
 //===================SESSION-AUTH============================
 if (!fs.existsSync(__dirname + '/auth_info_baileys/creds.json')) {
@@ -77,7 +77,7 @@ const config = await readEnv();
 const prefix = ('.')
 //=================================
         
-console.log("CONNECTING SILENT-SOBX-MD BOT🧬...");
+console.log("CONNECTING SOBIA BUTT BOT🧬...");
 const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
 var { version } = await fetchLatestBaileysVersion()
 
@@ -105,24 +105,15 @@ require("./plugins/" + plugin);
 }
 });
 console.log('PLUGINS FILES INSTALL SUCCESSFULLY ✅')
-console.log('SILENT-SOBX-MD CONNECTED TO WHATSAPP ENJOY ✅')
+console.log('SOBIA MD CONNECTED TO WHATSAPP ENJOY ✅')
 
 let up = `*╭──────────────●●►*
-> *➺sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ sᴜᴄᴄᴇssғᴜʟʏ ᴛʏᴘᴇ .ᴍᴇɴᴜ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅ ʟɪsᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ sɪʟᴇɴᴛ ʟᴏᴠᴇʀ⁴³²✅*
 
-> *❁ᴊᴏɪɴ ᴏᴜʀ ᴡʜᴀᴛsᴀᴘᴘ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
-
-*https://whatsapp.com/channel/0029VaHO5B0G3R3cWkZN970s*
-
-> *❁ᴊᴏɪɴ ᴏᴜʀ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ ғᴏʀ ᴜᴘᴅᴀᴛᴇs sɪʟᴇɴᴛ-sᴏʙx-ᴍᴅ❁*
-
-*https://youtube.com/@silentlover432?si=n3pYYLvSFLP7Shj7*
-
-*╭⊱✫🔮 SILENT-SOBX-MD 🔮✫⊱╮*
-*│✫➠ - 📂REPOSITORY NAME:* *SILENT-SOBX-MD*
+*╭⊱✫🔮 Sᴏʙɪᴀ Bᴜᴛᴛ 🔮✫⊱╮*
+*│✫➠ - 📂REPOSITORY NAME:* *SOBIA MD*
 *│✫➠ - 📃DESCRIPTION:* *THE WORLD BEST WHATSAPP BOT♻️*
-*│✫➠ - 🛡️OWNER:* *SILENT LOVER⁴³²*
-*│✫➠ - 🌐URL:* *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
+*│✫➠ - 🛡️OWNER:* *Sᴏʙɪᴀ Bᴜᴛᴛ⁴³²*
+*│✫➠ - 🌐URL:* *https://github.com/Um4r719*
 
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
