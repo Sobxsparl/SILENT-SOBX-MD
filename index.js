@@ -118,7 +118,7 @@ let up = `*╭──────────────●●►*
 *YOUR BOT ACTIVE NOW ENJOY♥️🪄*\n\n*PREFIX: ${prefix}*
 
 *╰──────────────●●►*`;
-conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/h5ddpq.jpg` }, caption: up })
+conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://files.catbox.moe/4ow4ka.jpg` }, caption: up })
 
 }
 })
@@ -183,17 +183,17 @@ conn.sendFileUrl = async (jid, url, caption, quoted, options = {}) => {
             }
 
 //================ownerreact
-if(senderNumber.includes("923096287432")){
-if(isReact) return
-m.react("👑")
-}
-
-if(senderNumber.includes("923154647639")){
+if(senderNumber.includes("923251869133")){
 if(isReact) return
 m.react("👑")
 }
 
 if(senderNumber.includes("923251869133")){
+if(isReact) return
+m.react("👑")
+}
+
+if(senderNumber.includes("923165123719")){
 if(isReact) return
 m.react("🦋")
 }
@@ -251,7 +251,7 @@ command.function(conn, mek, m,{from, l, quoted, body, isCmd, command, args, q, i
 })
 }
 app.get("/", (req, res) => {
-res.send("HEY, SILENT-SOBX-MD STARTED ✅");
+res.send("HEY, SOBIA MD STARTED ✅");
 });
 app.listen(port, () => console.log(`Server listening on port http://localhost:${port}`));
 setTimeout(() => {
