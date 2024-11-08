@@ -42,7 +42,7 @@ let madeMenu = `*╭─────────────────❒⁠⁠
 
 
 *╭─────────────────❒⁠⁠⁠⁠*
-*_https://github.com/SILENTLOVER40/SILENT-SOBX-MD_*
+*_https://github.com/SOBXSPARLE/-SOBIA-MD_*
 *┕─────────────────❒*
 
 *╭─────────────────❒⁠⁠⁠⁠*
