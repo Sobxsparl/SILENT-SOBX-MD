@@ -156,7 +156,7 @@ let madeMenu = `❁ ════ ❃•◯•❃ ════ ❁
 
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-> *https://github.com/SILENTLOVER40/SILENT-SOBX-MD*
+> *https://github.com/SOBXSPARLE/SOBIA-MD*
 
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━
 
